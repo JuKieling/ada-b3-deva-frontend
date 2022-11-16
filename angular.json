@@ -107,5 +107,8 @@
       }
     }
   },
-  "defaultProject": "letscodebyada-app"
+  "defaultProject": "letscodebyada-app",
+  "cli": {
+    "analytics": "e718c6c7-d1e6-4886-a82e-fef9be83247d"
+  }
 }
